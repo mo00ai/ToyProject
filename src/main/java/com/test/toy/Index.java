@@ -1,5 +1,5 @@
 package com.test.toy;
 
-public class index {
+public class Index {
 
 }
